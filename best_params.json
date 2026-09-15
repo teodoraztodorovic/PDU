@@ -1,0 +1,1 @@
+{"loss_type": "dice_bce", "use_elastic": true, "lr": 0.00012062332845022629, "weight_decay": 0.0001701362474450992, "bce_weight": 0.11535210509470156}
